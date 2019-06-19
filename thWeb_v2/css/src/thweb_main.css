@@ -1,0 +1,8 @@
+@charset "UTF-8";
+/*thweb_main.css*/
+
+@import url("./layout/thweb_mian_common.css");
+@import url("./layout/thweb_mian_mobile.css");
+@import url("./layout/thweb_mian_tablet.css");
+@import url("./layout/thweb_mian_laptop.css");
+@import url("./layout/thweb_mian_pcfull.css");
